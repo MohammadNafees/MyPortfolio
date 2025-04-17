@@ -56,13 +56,11 @@ $ yarn install
 $ yarn start
 ```
 
-<!-- ## Credits
+## Credits
 
 This website uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
-
-
 
 
 
@@ -71,4 +69,4 @@ This website uses the following open source packages:
 MIT
 
 
-> Twitter [@CodeWithNafees](https://twitter.com/CodeWithNafees) -->
+> Twitter [@CodeWithNafees](https://twitter.com/CodeWithNafees)
