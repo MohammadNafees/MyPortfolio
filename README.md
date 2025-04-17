@@ -1,17 +1,42 @@
-<h1 align="center">
-  <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
-  <br>
-  Greg Sithole's Personal Website
-  <br>
-</h1>
+# 🌐 Personal Portfolio Website
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+A responsive and modern personal portfolio website built using **React**. This site showcases my work, skills, and provides contact information. Designed to be minimal and professional.
 
-<br>
+## 🚀 Features
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+- 💻 Built with React
+- 🎨 Clean and responsive UI
+- 🌙 Dark mode toggle
+- 🧰 Projects section with links
+- 📱 Mobile-friendly design
+- 🗂️ Hosted on GitHub Pages
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript (ES6+)
+- CSS Modules / Tailwind / Styled Components (choose based on what you used)
+- Git & GitHub
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/MohammadNafees/myportfolio.git
+cd react-portfolio
+npm install
+npm start
+
+## Home Page
+![image](https://github.com/user-attachments/assets/4c3bd459-bb71-4102-a05a-a3d3091c60a9)
+
+## About Us
+
+![image](https://github.com/user-attachments/assets/2880a1a9-efa9-49a9-ad7e-043813c5efd5)
+
+## Services
+
+![image](https://github.com/user-attachments/assets/6b5a1731-99a0-4d19-95fe-e45c55dfb75b)
+
 
 ## How To Use
 
@@ -19,10 +44,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/MohammadNafees/myportfolio
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd myportfolio
 
 # Install dependencies
 $ yarn install
@@ -37,31 +62,13 @@ This website uses the following open source packages:
 
 - [Node.js](https://nodejs.org/)
 
-## Related
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
 
-## Support -->
 
-<!-- <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
-
-<!-- <p>Or</p>
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a> -->
-
-<!-- ## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
 MIT
 
----
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant) -->
+> Twitter [@CodeWithNafees](https://twitter.com/CodeWithNafees) -->
