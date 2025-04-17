@@ -18,15 +18,7 @@ A responsive and modern personal portfolio website built using **React**. This s
 - CSS Modules / Tailwind / Styled Components (choose based on what you used)
 - Git & GitHub
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/MohammadNafees/myportfolio.git
-cd react-portfolio
-npm install
-npm start
-
-## Home Page
+- ## Home Page
 ![image](https://github.com/user-attachments/assets/4c3bd459-bb71-4102-a05a-a3d3091c60a9)
 
 ## About Us
@@ -36,6 +28,14 @@ npm start
 ## Services
 
 ![image](https://github.com/user-attachments/assets/6b5a1731-99a0-4d19-95fe-e45c55dfb75b)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/MohammadNafees/myportfolio.git
+cd react-portfolio
+npm install
+npm start
 
 
 ## How To Use
